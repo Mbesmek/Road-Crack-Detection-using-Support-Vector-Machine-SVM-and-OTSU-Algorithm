@@ -1,5 +1,5 @@
 clc; close all; clear all;
-n=10; %Number of Photo
+n=50; %Number of Photo
 ratio=input('Test Ratio between 0-1:' ); 
 pPhoto=addPositivePhoto(n);
 nPhoto=addNegativePhoto(n);
